@@ -1,0 +1,29 @@
+
+INSIGHTS SUMMARY – WORLD’S LARGEST COMPANIES DASHBOARD
+
+📌 Dataset Overview:
+- Source: Kaggle – Largest Companies Dataset
+- Contains company name, country, revenue, profit, market value, and rank
+
+📈 Key Financial KPIs:
+- Total Revenue: Sum of all companies' revenue in billions
+- Total Profit: Sum of all companies' profit in billions
+- Average Market Value: Mean of all market values
+- Number of Companies: Total records in the dataset
+
+🔍 Visual Insights:
+1. The United States has the highest number of top companies.
+2. Saudi Aramco and Apple lead in revenue and market value respectively.
+3. China hosts several top-performing banks and state enterprises.
+4. Scatter plot reveals some companies with high revenue but moderate profit.
+5. Pie chart shows a global distribution across 8+ major economies.
+6. Top 10 companies contribute a significant portion of total global revenue.
+
+🎯 Dashboard Features:
+- KPI Cards: Revenue, Profit, Market Value, Company Count
+- Charts: Bar (Top 10 Revenue/Profit), Pie (by Country), Scatter (Revenue vs Profit)
+- Filters: Country and Numeric slicers
+- Design: Professional theme, clean layout, footer for branding
+
+📅 Updated: June 5, 2025
+👩‍💻 Created by: Nikita Giramkar
